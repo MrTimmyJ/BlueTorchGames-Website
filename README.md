@@ -21,4 +21,5 @@ Date: January 2021 to April 2022 / Last Updated February 2025
       
 🪪 License
 
-This project is copyrighted under Blue Torch Games.
+The Blue Torch Games Website is a proprietary product. All rights reserved.
+© 2025 Blue Torch Games. Unauthorized distribution or reproduction is prohibited.
